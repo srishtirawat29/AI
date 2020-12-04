@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c5eb87bf-3dd0-4b05-aaa4-d558a1079871" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/utility_methods.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Hexapawn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Hexapawn.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utility_methods.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,41 +33,12 @@
     <option name="width" value="1280" />
     <option name="height" value="717" />
   </component>
-  <component name="ProjectId" id="1l87Tw4114uyBSYLTzOz6yn0nSD" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
   <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.main">
-    <configuration name="automatedtests" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Hexapawn" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/automatedtests.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="hexapawn" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Hexapawn" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -134,18 +109,15 @@
       <item itemvalue="Python.hexapawn" />
       <item itemvalue="Python.unittest" />
       <item itemvalue="Python.main" />
-      <item itemvalue="Python.automatedtests" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.main" />
-        <item itemvalue="Python.automatedtests" />
         <item itemvalue="Python.hexapawn" />
         <item itemvalue="Python.unittest" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -156,92 +128,101 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542422183375</updated>
-      <workItem from="1606966877547" duration="1309000" />
-      <workItem from="1606971636677" duration="1000" />
-      <workItem from="1606975922309" duration="4000" />
-      <workItem from="1606978381846" duration="1966000" />
     </task>
     <servers />
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Hexapawn.iml changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hexapawn.iml changes" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="354" y="135" key="#Inspections" timestamp="1606968367751">
+    <state width="1440" height="850" key="GridCell.Tab.0.bottom" timestamp="1607046907223">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="354" y="135" key="#Inspections/0.0.1440.900@0.0.1440.900" timestamp="1606968367751" />
-    <state width="1440" height="316" key="GridCell.Tab.0.bottom" timestamp="1606989190627">
+    <state width="1440" height="850" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1607046907223" />
+    <state width="1440" height="872" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1607021674299" />
+    <state width="1440" height="850" key="GridCell.Tab.0.center" timestamp="1607046907222">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1440" height="316" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1606989190627" />
-    <state width="1440" height="872" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1606968351187" />
-    <state width="1440" height="316" key="GridCell.Tab.0.center" timestamp="1606989190622">
+    <state width="1440" height="850" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1607046907222" />
+    <state width="1440" height="872" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1607021674298" />
+    <state width="1440" height="850" key="GridCell.Tab.0.left" timestamp="1607046907221">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1440" height="316" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1606989190622" />
-    <state width="1440" height="316" key="GridCell.Tab.0.left" timestamp="1606989190621">
+    <state width="1440" height="850" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1607046907221" />
+    <state width="1440" height="850" key="GridCell.Tab.0.right" timestamp="1607046907223">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1440" height="316" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1606989190621" />
-    <state width="1440" height="316" key="GridCell.Tab.0.right" timestamp="1606989190625">
+    <state width="1440" height="850" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1607046907223" />
+    <state width="1440" height="872" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1607021674299" />
+    <state width="0" height="0" key="GridCell.Tab.1.bottom" timestamp="1607022138966">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1440" height="316" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1606989190625" />
-    <state width="1440" height="872" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1606968351186" />
-    <state width="1440" height="316" key="GridCell.Tab.1.bottom" timestamp="1606989190630">
+    <state width="0" height="0" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1607022138966" />
+    <state width="0" height="0" key="GridCell.Tab.1.center" timestamp="1607022138965">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1440" height="316" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1606989190630" />
-    <state width="1440" height="316" key="GridCell.Tab.1.center" timestamp="1606989190628">
+    <state width="0" height="0" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1607022138965" />
+    <state width="0" height="0" key="GridCell.Tab.1.left" timestamp="1607022138965">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1440" height="316" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1606989190628" />
-    <state width="1440" height="316" key="GridCell.Tab.1.left" timestamp="1606989190628">
+    <state width="0" height="0" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1607022138965" />
+    <state width="0" height="0" key="GridCell.Tab.1.right" timestamp="1607022138965">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1440" height="316" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1606989190628" />
-    <state width="1440" height="316" key="GridCell.Tab.1.right" timestamp="1606989190629">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1440" height="316" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1606989190629" />
-    <state x="221" y="89" key="SettingsEditor" timestamp="1606967399949">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1606967399949" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1607015306068">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1607015306068" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/automatedtests.py</url>
-          <line>16</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/automatedtests.py</url>
-          <line>20</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/automatedtests.py</url>
-          <line>18</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/automatedtests.py</url>
-          <line>34</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state width="0" height="0" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1607022138965" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/AI$main.coverage" NAME="main Coverage Results" MODIFIED="1606989113653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AI$main.coverage" NAME="main Coverage Results" MODIFIED="1607046886840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AI$automatedtests.coverage" NAME="automatedtests Coverage Results" MODIFIED="1606989107152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

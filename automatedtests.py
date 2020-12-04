@@ -11,9 +11,9 @@ def print_twod_array(playboard):
   for x in playboard:
    print(*x, sep=" ")
 
-##utility function to get all the current coordinates of the player's pawns
-##returns a list of coordinates of player's pawns to be used in the
-##generate_move function.
+# utility function to get all the current coordinates of the player's pawns
+# returns a list of coordinates of player's pawns to be used in the
+# generate_move function.
 def get_positions(board, player):
   list_of_coordinates = []
   for index_row in range(len(board)):
@@ -22,11 +22,11 @@ def get_positions(board, player):
               list_of_coordinates.append((index_row, index_col))
   return list_of_coordinates
 
-##This utility function will return all the valid board states that can be
-##made from a player's move.
-##returns a list of moves that is used when generating the children
-##this function will essentially call the move function on all the player'
-##pawns in order to generate all the move possibilities.
+# This utility function will return all the valid board states that can be
+# made from a player's move.
+# returns a list of moves that is used when generating the children
+# this function will essentially call the move function on all the player'
+# pawns in order to generate all the move possibilities.
 def generate_move(board, player):
   list_of_coordinates = []
   list_of_moves = []
