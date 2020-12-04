@@ -14,7 +14,7 @@ Once you run it, you will bw given the option to play a game of 3X3, 4X4 or 5X5 
 
 # Outcomes and Findings:
 
-![Screenshot](Screen Shot 2020-12-04 at 1.32.09 AM.png.png)
+![Screenshot](AI/Screen Shot 2020-12-04 at 1.32.09 AM.png.png)
 ![Screenshot](screenshot.png)
 
 
