@@ -3,7 +3,7 @@
 # This is a submission for IS 597: DSO</br>
 ## TYPE 3 Solved Game Analysis on Hexapawn
 
-This is a game of hexapawn. I have used and modified the original code by tochiton to prove that Hexapawn is a solved game for my analysis. I have also included variations to play the 4X4 version and also a 5X5 version of the game, for the purpose of this analysis. This program uses minimax and alpha beta pruning for the game tree search and move selection.
+This is a game of hexapawn. I have used and modified the original code by tochiton to prove that Hexapawn is a solved game for my analysis. I have also included variations to play the 4X4 version and also a 5X5 version of the game, for the purpose of this analysis. This program uses minimax and alpha beta pruning for the game tree search and move selection. For more description, you can refer my video presenrtation AT https://mediaspace.illinois.edu/media/t/1_npyfb1gh?st=0&ed=51300
 
 # Motivation behind the project
 I was very intrigued by the concept of “solved games”, perfect information and perfect play. That is why I chose to select this topic for my final project. For me, as the aim of the project, grasping and demonstrating the concept computationally was more important than the game I selected to demonstrate that. I have to say I thouroughly enjoyed the process and learned so much along the way. 
