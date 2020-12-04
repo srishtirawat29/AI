@@ -1,6 +1,7 @@
-# Welcome to my fork of AI by author - github user ID: tochinton</br>
+# IS 597: DSO
+# Welcome to my fork of project 'AI' by author - github user ID: tochinton</br>
 # This is a submission for IS 597: DSO</br>
-# TYPE 3 Solved Game Analysis
+# TYPE 3 Solved Game Analysis on Hexapawn
 
 This is a game of hexapawn. I have used and modified the original code by tochiton to prove that Hexapawn is a solved game for my analysis. I have also included variations to play the 4X4 version and also a 5X5 version of the game, for the purpose of this analysis. 
 
