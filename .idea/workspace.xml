@@ -5,10 +5,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5eb87bf-3dd0-4b05-aaa4-d558a1079871" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/utility_methods.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Hexapawn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Hexapawn.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="c5eb87bf-3dd0-4b05-aaa4-d558a1079871" name="Default" comment="Revert &quot;Hexapawn.iml changes&quot;&#10;&#10;This reverts commit 7d71d309cb246f41c8a49e8975d939af6c7311d4.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -39,6 +36,28 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.main">
+    <configuration name="automatedtests" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Hexapawn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/automatedtests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="hexapawn" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Hexapawn" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -109,10 +128,12 @@
       <item itemvalue="Python.hexapawn" />
       <item itemvalue="Python.unittest" />
       <item itemvalue="Python.main" />
+      <item itemvalue="Python.automatedtests" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.automatedtests" />
         <item itemvalue="Python.hexapawn" />
         <item itemvalue="Python.unittest" />
       </list>
@@ -129,6 +150,14 @@
       <option name="presentableId" value="Default" />
       <updated>1542422183375</updated>
     </task>
+    <task id="LOCAL-00001" summary="Revert &quot;Hexapawn.iml changes&quot;&#10;&#10;This reverts commit 7d71d309cb246f41c8a49e8975d939af6c7311d4.">
+      <created>1607047242307</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607047242307</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -182,27 +211,32 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Hexapawn.iml changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hexapawn.iml changes" />
+    <MESSAGE value="Revert &quot;Hexapawn.iml changes&quot;&#10;&#10;This reverts commit 7d71d309cb246f41c8a49e8975d939af6c7311d4." />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;Hexapawn.iml changes&quot;&#10;&#10;This reverts commit 7d71d309cb246f41c8a49e8975d939af6c7311d4." />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1440" height="850" key="GridCell.Tab.0.bottom" timestamp="1607046907223">
+    <state x="0" y="0" width="907" height="900" key="CommitChangelistDialog2" timestamp="1607047242154">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1440" height="850" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1607046907223" />
+    <state x="0" y="0" width="907" height="900" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1607047242154" />
+    <state width="1440" height="850" key="GridCell.Tab.0.bottom" timestamp="1607050527274">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1440" height="850" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1607050527274" />
     <state width="1440" height="872" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1607021674299" />
-    <state width="1440" height="850" key="GridCell.Tab.0.center" timestamp="1607046907222">
+    <state width="1440" height="850" key="GridCell.Tab.0.center" timestamp="1607050527273">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1440" height="850" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1607046907222" />
+    <state width="1440" height="850" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1607050527273" />
     <state width="1440" height="872" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1607021674298" />
-    <state width="1440" height="850" key="GridCell.Tab.0.left" timestamp="1607046907221">
+    <state width="1440" height="850" key="GridCell.Tab.0.left" timestamp="1607050527272">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1440" height="850" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1607046907221" />
-    <state width="1440" height="850" key="GridCell.Tab.0.right" timestamp="1607046907223">
+    <state width="1440" height="850" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1607050527272" />
+    <state width="1440" height="850" key="GridCell.Tab.0.right" timestamp="1607050527273">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1440" height="850" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1607046907223" />
+    <state width="1440" height="850" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1607050527273" />
     <state width="1440" height="872" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1607021674299" />
     <state width="0" height="0" key="GridCell.Tab.1.bottom" timestamp="1607022138966">
       <screen x="0" y="0" width="1440" height="900" />
@@ -222,7 +256,7 @@
     <state width="0" height="0" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1607022138965" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/AI$main.coverage" NAME="main Coverage Results" MODIFIED="1607046886840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/AI$automatedtests.coverage" NAME="automatedtests Coverage Results" MODIFIED="1606989107152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AI$main.coverage" NAME="main Coverage Results" MODIFIED="1607050516918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AI$automatedtests.coverage" NAME="automatedtests Coverage Results" MODIFIED="1607050279839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

@@ -256,11 +256,30 @@ if __name__ == '__main__':
  depth = 10  # set the depth cutoff (i.e how many moves ahead AI will look)
  botplayer = 'B'    # set the bot as black
 
- playboard = [
+ playboard_number = raw_input("Board size? 3 or 4 or 5?")
+
+ if playboard_number == 3:
+     playboard = [
      ['W', 'W', 'W'],
      ['0', '0', '0'],
      ['B', 'B', 'B']
  ]
+ elif playboard_number == 4:
+     playboard = [
+         ['W', 'W', 'W', 'W'],
+         ['0', '0', '0', '0'],
+         ['0', '0', '0', '0'],
+         ['B', 'B', 'B', 'B']
+     ]
+
+ else:
+    playboard = [
+      ['W', 'W', 'W', 'W', 'W'],
+      ['0', '0', '0', '0', '0'],
+      ['0', '0', '0', '0', '0'],
+      ['0', '0', '0', '0', '0'],
+      ['B', 'B', 'B', 'B', 'B']
+  ]
 
 ##you can set the play board in any n x n 2d matrix configuration with n number
 ##of pawns for each side. 'W' represents white pawn, 'B' represents black pawn
