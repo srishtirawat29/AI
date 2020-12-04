@@ -15,8 +15,9 @@ Once you run it, you will bw given the option to play a game of 3X3, 4X4 or 5X5 
 
 
 
+## Other references
 
-
+## Original Read.me from the author
 tested on python 2.7
 run AI using: python main.py
 
